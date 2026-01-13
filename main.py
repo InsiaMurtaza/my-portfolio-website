@@ -46,7 +46,7 @@ if page == "Home":
         """,
         unsafe_allow_html=True
     )
-            # image = Image.open("insiapic.jpg")
+            # image = Image.open("insiamurtaza.jpg")
             # st.image(image, width=200,)
             
             st.markdown('<div class="center-container">', unsafe_allow_html=True)
